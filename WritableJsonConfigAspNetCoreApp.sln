@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WritableJsonConfigAspNetCoreApp", "WritableJsonConfigAspNetCoreApp\WritableJsonConfigAspNetCoreApp.csproj", "{86C8085E-6B83-4485-84B3-94AA1C54EAFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86C8085E-6B83-4485-84B3-94AA1C54EAFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86C8085E-6B83-4485-84B3-94AA1C54EAFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86C8085E-6B83-4485-84B3-94AA1C54EAFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86C8085E-6B83-4485-84B3-94AA1C54EAFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3EA59BB-0D0A-448C-80AC-B5AD413DDB74}
+	EndGlobalSection
+EndGlobal
